@@ -1,0 +1,2 @@
+com/bootcamp/resourceapi/ResourceapiApplicationTests.java
+ com.bootcamp.resourceapi.ResourceapiApplicationTests

@@ -1,0 +1,9 @@
+
+auth0:
+  audience: https://bootcamp-bcp/bidders
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://alfredobenaute.us.auth0.com/

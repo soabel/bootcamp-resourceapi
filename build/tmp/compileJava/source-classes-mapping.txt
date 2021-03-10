@@ -1,0 +1,10 @@
+com/bootcamp/resourceapi/config/AudienceValidator.java
+ com.bootcamp.resourceapi.config.AudienceValidator
+com/bootcamp/resourceapi/domain/dto/Message.java
+ com.bootcamp.resourceapi.domain.dto.Message
+com/bootcamp/resourceapi/ResourceapiApplication.java
+ com.bootcamp.resourceapi.ResourceapiApplication
+com/bootcamp/resourceapi/web/controllers/MessageController.java
+ com.bootcamp.resourceapi.web.controllers.MessageController
+com/bootcamp/resourceapi/config/SecurityConfig.java
+ com.bootcamp.resourceapi.config.SecurityConfig
